@@ -1,0 +1,24 @@
+{
+  "name": "npm-dev",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vereng/npm-dev.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vereng/npm-dev/issues"
+  },
+  "homepage": "https://github.com/vereng/npm-dev#readme"
+}
